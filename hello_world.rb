@@ -1,3 +1,3 @@
-```
+```Ruby
 puts "Hello World!"
 ```
